@@ -9,6 +9,7 @@
 Poster Session Balboa A-B - Friday, July 3 at 15:30
 
 **TLDR**: Our research shows that LLMs’ answer quality for definition-type questions is the highest, while for exemplification-type questions it is the lowest. Additionally, they more often paraphrase definitions of popular terms and less often definitions of tail/specialized terms.
+
 Authors: Ioana Buhnila, Aman Sinha, Mathieu Constant.
 
 
